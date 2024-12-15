@@ -1,7 +1,7 @@
 # proyecto_final_IDO
 # APLICACIÓN DE HEURÍSTICAS PARA LA RESOLUCIÓN DEL PROBLEMA DEL AGENTE VIAJERO
 
-![.](heuristica.png)
+![.](heuristica.PNG)
 
 ## Descripción del Proyecto
 
